@@ -1,4 +1,4 @@
-# Diego Here!
+# [Diego Here!!!!]
 ### Estudiante de Programación | Aspirante a Desarrollador de Software
 
 ---
@@ -51,5 +51,26 @@ Estos son los lenguajes y tecnologías con los que tengo experiencia:
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### ## Sistemas Operativos
+
+Tengo experiencia trabajando en los siguientes entornos:
+
+<p align="left">
+  <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
+  </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
+  </a>
+    <a href="https://www.android.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
+  </a>
+  <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macos" width="40" height="40"/>
   </a>
 </p>
